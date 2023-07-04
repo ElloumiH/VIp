@@ -31,83 +31,45 @@
 				
 				<!-- Block -->
 				<li class="accordion block">
-					<div class="acc-btn"><div class="icon-outer"><span class="icon fa fa-angle-up"></span></div>Do I need to install any software?</div>
+					<div class="acc-btn"><div class="icon-outer"><span class="icon fa fa-angle-up"></span></div>step1</div>
 					<div class="acc-content">
 						<div class="content">
-							<div class="text">LessAccounting is 100% web-based, meaning it can be accessed from anywhere and there’s no software to install on your computer. You can easily use LessAccounting on your iPhone or any Android mobile device with our cloud accounting. That is what makes it the best small business accounting software options among accounting programs.</div>
+							<div class="text">muster text</div>
 						</div>
 					</div>
 				</li>
 				
 				<!-- Block -->
 				<li class="accordion block">
-					<div class="acc-btn"><div class="icon-outer"><span class="icon fa fa-angle-up"></span></div>Is my data safe?</div>
+					<div class="acc-btn"><div class="icon-outer"><span class="icon fa fa-angle-up"></span></div>step2</div>
 					<div class="acc-content">
 						<div class="content">
-							<div class="text">LessAccounting is 100% web-based, meaning it can be accessed from anywhere and there’s no software to install on your computer. You can easily use LessAccounting on your iPhone or any Android mobile device with our cloud accounting. That is what makes it the best small business accounting software options among accounting programs.</div>
+							<div class="text">muster text</div>
 						</div>
 					</div>
 				</li>
 				
 				<!-- Block -->
 				<li class="accordion block">
-					<div class="acc-btn"><div class="icon-outer"><span class="icon fa fa-angle-up"></span></div>How does the 30-day free software trial work?</div>
+					<div class="acc-btn"><div class="icon-outer"><span class="icon fa fa-angle-up"></span></div>step3</div>
 					<div class="acc-content">
 						<div class="content">
-							<div class="text">LessAccounting is 100% web-based, meaning it can be accessed from anywhere and there’s no software to install on your computer. You can easily use LessAccounting on your iPhone or any Android mobile device with our cloud accounting. That is what makes it the best small business accounting software options among accounting programs.</div>
+							<div class="text">muster text</div>
 						</div>
 					</div>
 				</li>
 				
 				<!-- Block -->
 				<li class="accordion block">
-					<div class="acc-btn"><div class="icon-outer"><span class="icon fa fa-angle-up"></span></div>What happens after my free trial?</div>
+					<div class="acc-btn"><div class="icon-outer"><span class="icon fa fa-angle-up"></span></div>step4</div>
 					<div class="acc-content">
 						<div class="content">
-							<div class="text">LessAccounting is 100% web-based, meaning it can be accessed from anywhere and there’s no software to install on your computer. You can easily use LessAccounting on your iPhone or any Android mobile device with our cloud accounting. That is what makes it the best small business accounting software options among accounting programs.</div>
+						<div class="text">muster text</div>
 						</div>
 					</div>
 				</li>
 				
-				<!-- Block -->
-				<li class="accordion block">
-					<div class="acc-btn"><div class="icon-outer"><span class="icon fa fa-angle-up"></span></div>What makes LessAccounting better than the rest?</div>
-					<div class="acc-content">
-						<div class="content">
-							<div class="text">LessAccounting is 100% web-based, meaning it can be accessed from anywhere and there’s no software to install on your computer. You can easily use LessAccounting on your iPhone or any Android mobile device with our cloud accounting. That is what makes it the best small business accounting software options among accounting programs.</div>
-						</div>
-					</div>
-				</li>
-				
-				<!-- Block -->
-				<li class="accordion block">
-					<div class="acc-btn"><div class="icon-outer"><span class="icon fa fa-angle-up"></span></div>How does the 30-day free software trial work?</div>
-					<div class="acc-content">
-						<div class="content">
-							<div class="text">LessAccounting is 100% web-based, meaning it can be accessed from anywhere and there’s no software to install on your computer. You can easily use LessAccounting on your iPhone or any Android mobile device with our cloud accounting. That is what makes it the best small business accounting software options among accounting programs.</div>
-						</div>
-					</div>
-				</li>
-				
-				<!-- Block -->
-				<li class="accordion block">
-					<div class="acc-btn"><div class="icon-outer"><span class="icon fa fa-angle-up"></span></div>What happens after my free trial?</div>
-					<div class="acc-content">
-						<div class="content">
-							<div class="text">LessAccounting is 100% web-based, meaning it can be accessed from anywhere and there’s no software to install on your computer. You can easily use LessAccounting on your iPhone or any Android mobile device with our cloud accounting. That is what makes it the best small business accounting software options among accounting programs.</div>
-						</div>
-					</div>
-				</li>
-				
-				<!-- Block -->
-				<li class="accordion block">
-					<div class="acc-btn"><div class="icon-outer"><span class="icon fa fa-angle-up"></span></div>What makes LessAccounting better than the rest?</div>
-					<div class="acc-content">
-						<div class="content">
-							<div class="text">LessAccounting is 100% web-based, meaning it can be accessed from anywhere and there’s no software to install on your computer. You can easily use LessAccounting on your iPhone or any Android mobile device with our cloud accounting. That is what makes it the best small business accounting software options among accounting programs.</div>
-						</div>
-					</div>
-				</li>
+
 				
 			</ul>
 			
@@ -120,18 +82,7 @@
 	
 </div>
 
-<!-- Search Popup -->
-<div class="search-popup">
-	<div class="color-layer"></div>
-	<button class="close-search"><span class="fa fa-arrow-up"></span></button>
-	<form method="post" action="blog.html">
-		<div class="form-group">
-			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
-			<button type="submit"><i class="fa fa-search"></i></button>
-		</div>
-	</form>
-</div>
-<!-- End Search Popup -->
+
 
 <!-- scrollToTop start -->
 <div class="progress-wrap active-progress">
