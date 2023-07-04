@@ -3,20 +3,13 @@
 
 <head>
 	<?php require_once 'layout/links.php' ?>
-
-
 </head>
 
 <body>
 
-
-
-
-
 <div class="page-wrapper fintech-wrapper">
  	
 	<?php require_once 'layout/header.php' ?>
-
 
 	<!-- Banner Section Four -->
     <section class="banner-section-four">
@@ -37,10 +30,10 @@
 							<div class="text">Als VIP-Kunde genießen Sie Vorzüge wie:</div>
 
 							<ul class="list">
-								<li><strong>VIP-Gutschein über 25 € </strong> bei der ersten Anmeldung auf unserem Portal</li>
+								<li><strong>VIP-Gutschein über 25 € </strong> bei Eröffnung eines Kundenkontos. </li>
 								<li>Direktinvestition in physisches Gold</li>
-								<li>Vielfältige Auswahl an Goldsparplänen ab 25€ monatliche Einzahlung</li>
-								<li>Einmalanlage in Altgold Plan ab 1000,-€ attraktiver Bonus, bis zu 7 % p.a.</li>
+								<li>Vielfältige Auswahl an Goldsparplänen ab 25€ monatlicher Einzahlung</li>
+								<li>Einmalanlage in Feingold Plan ab 1000,-€ attraktiver Bonus, <br>bis zu 7 % p.a.</li>
 								<li>Zielsparpläne für Kinder und Enkelkinder</li>
 							</ul>
 
@@ -134,11 +127,13 @@
 		<div class="auto-container">
 			<!-- Sec Title -->
 			<div class="sec-title clearfix">
-				<div class="pull-left">
-					<h2>Die Zukunft ist schöner,<br>  wenn
-						 Sie vorbereitet sind.</h2>
-				</div>
-			
+
+			<div class="sec-title-four">
+				<h2>Die Zukunft ist schöner <br>wenn
+						 Sie vorbereitet sind</h2>
+			</div>
+
+	
 			</div>
 			<div class="row clearfix">
 			
@@ -166,7 +161,7 @@
 					<div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
 						<div class="icon flaticon-stats"></div>
 						<h5><a href="https://www.investal24.de/gold-sparkonto.php" target="_blank" > Gold Sparplan</a></h5>
-						<div class="text">Attraktive Option, dein Vermögen aufzubauen und vor Inflation schützen.</div>
+						<div class="text">Attraktive Option, dein Vermögen aufzubauen und vor Inflation zu schützen..</div>
 					</div>
 				</div>
 				
@@ -204,12 +199,7 @@
 		</div>
 	</section>
 	<!-- End App Section Two -->
-	
-
 	<?php require_once 'layout/footer.php' ?>
-
-
-	
 </div>
 
 <?php require_once 'layout/script.php' ?>

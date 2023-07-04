@@ -6,7 +6,7 @@
         <div class="inner-container d-flex justify-content-between align-items-center">
             
             <div class="logo-box">
-                <div class="logo"><a href="index.html"><img src="https://www.investal24.de/index.php" alt="" title=""></a></div>
+                <div class="logo"><a href="index.php"><img src="https://investal24.de/img/logo-blog.png" alt="" title=""></a></div>
             </div>
             <div class="nav-outer clearfix">
                 
@@ -24,21 +24,21 @@
                     
                     <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
                         <ul class="navigation clearfix">
-                            <li class=""><a href="index.html">Home</a>
+                            <li class=""><a href="index.php">Home</a>
                         
                             </li>
-                            <li class=""><a href="about.html">Über uns</a>
+                            <li class=""><a href="about.php">Über uns</a>
                             
                             </li>
                         
                             
                             <li class="dropdown"><a href="#">Shop</a>
                                 <ul>
-                                    <li><a href="shop.html">Investal24 Gold</a></li>
+                                    <li><a href="https://www.investal24.de/gold-kaufen.php" target="_blank">Investal24 Gold</a></li>
                                 </ul>
                             </li>
                         
-                            <li><a href="contact.html">Kontakt</a></li>
+                            <li><a href="https://www.investal24.de/kontakt.php" target="_blank">Kontakt</a></li>
                         </ul>
                     </div>
                     
@@ -51,7 +51,7 @@
                 
                                     <!-- Button Box -->
                 <div class="button-box">
-                    <a href="contact.html" class="theme-btn btn-style-twelve clearfix">
+                    <a href="Gutschein.php" class="theme-btn btn-style-twelve clearfix">
                         <span class="btn-wrap">
                             <span class="text-one">Gutschein Einlösen </span>
                             <span class="text-two">Gutschein Einlösen </span>
@@ -75,7 +75,7 @@
         <div class="inner-container d-flex justify-content-between align-items-center">
             <!-- Logo -->
             <div class="logo">
-                <a href="index.html" title=""><img src="images/logo-small.png" alt="" title=""></a>
+                <a href="index.php" title=""><img src="https://investal24.de/img/logo-blog.png" alt="" title=""></a>
             </div>
             
             <div>
@@ -99,7 +99,7 @@
     <div class="menu-backdrop"></div>
     <div class="close-btn"><span class="icon flaticon-multiply"></span></div>
     <nav class="menu-box">
-        <div class="nav-logo"><a href="index.html"><img src="images/mobile-logo.png" alt="Barnix" title=""></a></div>
+        <div class="nav-logo"><a href="index.php"><img src="https://investal24.de/img/logo-blog.png" alt="Barnix" title=""></a></div>
         <!-- Search -->
         <div class="search-box">
             <form method="post" action="contact.html">
