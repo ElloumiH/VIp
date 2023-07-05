@@ -35,9 +35,9 @@
                             <li class="dropdown"><a href="#">Produkte</a>
                                 <ul>
 
-                                    <li><a href="https://www.investal24.de/anlageplan.php" target="_blank">Einmalanlage Altgold mit Bonus</a></li>
+                                    <li><a href="https://www.investal24.de/anlageplan.php" target="_blank"> Altgold Einmalanlage mit Bonus</a></li>
                                     <li><a href="https://www.investal24.de/gold-sparkonto.php" target="_blank">Altgold Sparplan</a></li>
-                                    <li><a href="https://www.investal24.de/neugold-sparkonto.php" target="_blank">Gold Zielsparplan</a></li>
+                                    <li><a href="https://www.investal24.de/neugold-sparkonto.php" target="_blank">Feingold Sparplan</a></li>
                                     <li><a href="https://www.investal24.de/gold-kaufen.php" target="_blank">Investal24 Gold</a></li>
                                 </ul>
                             </li>

@@ -23,14 +23,12 @@
 						<div class="content">
 							<h1>Sichern und mehren Sie Ihr Vermögen mit Gold bei Investal24</h1>
 							<div class="text">Als wertgeschätzter VIP-Kunde der Schnur Gruppe möchten wir Ihnen eine maßgeschneiderte Anlageoption anbieten</div>
-							<!-- Subscribe Form Five -->
-
 
 						
 							<div class="text">Als VIP-Kunde genießen Sie Vorzüge wie:</div>
 
 							<ul class="list">
-								<li><strong>VIP-Gutschein über 25 € </strong> bei Eröffnung eines Kundenkontos.  <a href="https://www.investal24.de/login-register.php"> <br><strong> <b> Anmelden und Gutschein erhalten </b></strong> </a>
+								<li><strong>VIP-Gutschein über 25 € </strong> bei Eröffnung eines Kundenkontos.  <a href="https://www.investal24.de/login-register.php" target="_blank"> <br><strong> <b> Anmelden und Gutschein erhalten </b></strong> </a>
 							
 							
 							</li> 
@@ -43,10 +41,10 @@
 							<div class="subscribe-form-five">
 								<form method="post" action="contact.html">
 									<div class="form-group">
-										<input type="email" name="email" value="" placeholder="Anmeldung mit E-Mail-Adresse" required>
+										<input type="email" name="email" value="" placeholder="Alle Neuigkeiten über gold erfahren" required>
 										<button type="submit" class="theme-btn btn-style-twelve">
 											<span class="btn-wrap">
-												<span class="text-one">senden</span>
+												<span class="text-one">Newsletter</span>
 												<span class="text-two">senden</span>
 											</span>
 										</button>
@@ -144,7 +142,7 @@
 				<div class="service-block col-lg-3 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="icon flaticon-target-1"></div>
-						<h5><a href="https://www.investal24.de/anlageplan.php" target="_blank">Einmalanlageplan </a></h5>
+						<h5><a href="https://www.investal24.de/anlageplan.php" target="_blank">Altgold Einmalanlage mit Bonus </a></h5>
 						<div class="text">Eine Einmalanlage kann eine wertvolle
 							Strategie für den Vermögensaufbau sein</div>
 					</div>
@@ -154,8 +152,8 @@
 				<div class="service-block col-lg-3 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="150ms" data-wow-duration="1500ms">
 						<div class="icon flaticon-customer-support"></div>
-						<h5><a href="https://www.investal24.de/neugold-sparkonto.php" target="_blank">Gold Zielsparplan</a></h5>
-						<div class="text">Eine effektive Möglichkeit, um deine finanziellen Ziele zu erreichen</div>
+						<h5><a href="https://www.investal24.de/neugold-sparkonto.php" target="_blank">Feingold Sparplan</a></h5>
+						<div class="text">Eine effektive Möglichkeit, um deine finanziellen Ziele zu erreichen<br><br><br></div>
 					</div>
 				</div>
 				
@@ -163,8 +161,8 @@
 				<div class="service-block col-lg-3 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
 						<div class="icon flaticon-stats"></div>
-						<h5><a href="https://www.investal24.de/gold-sparkonto.php" target="_blank" > Gold Sparplan</a></h5>
-						<div class="text">Attraktive Option, dein Vermögen aufzubauen und vor Inflation zu schützen..</div>
+						<h5><a href="https://www.investal24.de/gold-sparkonto.php" target="_blank" > Altgold Sparplan</a></h5>
+						<div class="text">Attraktive Option, dein Vermögen aufzubauen und vor Inflation zu schützen.. <br><br><br></div>
 					</div>
 				</div>
 				
@@ -174,7 +172,7 @@
 						<div class="icon flaticon-money-bag"></div>
 						<h5><a href="https://www.investal24.de/Depots.php" target="_blank">Edelmetalle Depot</a></h5>
 						<div class="text">Sichere Lagerstätten für Edelmetalle
-							und Zollfreilager, jetzt bei uns buchen.</div>
+							und Zollfreilager, jetzt bei uns buchen.<br><br><br></div>
 					</div>
 				</div>
 				
