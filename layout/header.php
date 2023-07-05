@@ -32,8 +32,12 @@
                             </li>
                         
                             
-                            <li class="dropdown"><a href="#">Shop</a>
+                            <li class="dropdown"><a href="#">Produkte</a>
                                 <ul>
+
+                                    <li><a href="https://www.investal24.de/anlageplan.php" target="_blank">Einmalanlage Altgold mit Bonus</a></li>
+                                    <li><a href="https://www.investal24.de/gold-sparkonto.php" target="_blank">Altgold Sparplan</a></li>
+                                    <li><a href="https://www.investal24.de/neugold-sparkonto.php" target="_blank">Gold Zielsparplan</a></li>
                                     <li><a href="https://www.investal24.de/gold-kaufen.php" target="_blank">Investal24 Gold</a></li>
                                 </ul>
                             </li>
@@ -53,8 +57,8 @@
                 <div class="button-box">
                     <a href="Gutschein.php" class="theme-btn btn-style-twelve clearfix">
                         <span class="btn-wrap">
-                            <span class="text-one">Gutschein Einlösen </span>
-                            <span class="text-two">Gutschein Einlösen </span>
+                            <span class="text-one">Gutschein  Einlösen </span>
+                            <span class="text-two">Gutschein  Einlösen </span>
                         </span>
                     </a>
                 </div>

@@ -30,10 +30,13 @@
 							<div class="text">Als VIP-Kunde genießen Sie Vorzüge wie:</div>
 
 							<ul class="list">
-								<li><strong>VIP-Gutschein über 25 € </strong> bei Eröffnung eines Kundenkontos. </li>
+								<li><strong>VIP-Gutschein über 25 € </strong> bei Eröffnung eines Kundenkontos.  <a href="https://www.investal24.de/login-register.php"> <br><strong> <b> Anmelden und Gutschein erhalten </b></strong> </a>
+							
+							
+							</li> 
 								<li>Direktinvestition in physisches Gold</li>
 								<li>Vielfältige Auswahl an Goldsparplänen ab 25€ monatlicher Einzahlung</li>
-								<li>Einmalanlage in Feingold Plan ab 1000,-€ attraktiver Bonus, <br>bis zu 7 % p.a.</li>
+								<li>Einmalanlage in Altgold Plan ab 1000,-€ attraktiver Bonus, <br>bis zu 7 % p.a.</li>
 								<li>Zielsparpläne für Kinder und Enkelkinder</li>
 							</ul>
 
